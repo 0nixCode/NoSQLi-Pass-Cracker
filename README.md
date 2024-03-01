@@ -11,9 +11,10 @@ Interactive Output: Provides interactive output indicating the progress of the b
 Python 3
 Python Libraries: pwn, requests
 
-##Usage
+## Usage
 Clone the repository or download the pass_cracker_nosqli.py file.
 Run the script providing the target URL.
+
 ```python
 python3 pass_cracker_nosqli.py
 ```
